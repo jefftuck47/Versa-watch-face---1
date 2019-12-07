@@ -2,6 +2,6 @@
 
 Made to be easy to read
 
-(JT-Basic-screenshot-8.png)
+![Screenshot](JT-Basic-screenshot-8.png)
 
 
